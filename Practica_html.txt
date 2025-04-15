@@ -1,0 +1,40 @@
+3 a)
+El primer "Click aquí para ir a Google" te abre la pestaña de google reemplazando la de la pagina web, en el segundo "Click aquí para ir a Google" te abre la pestaña de google pero en una nueva pestaña.
+El tercer "Click aquí para ir a Google" no cumple su función ya que solamente abre nuevamente la misma pagina web.
+El "Click aquí para volver arriba" solo abre nuevamente el documento pero poniendo #arriba.
+
+b)
+En la primera lnea de código podemos visualizar una imagen y un "Click aquí" donde el "Clik aquí" es un link que lleva a Google.
+En la segunda línea de código pasa lo mismo pero el la imágen es la que tiene el link a Google y el "Click aquí" es solo un texto.
+En la tercera línea solo se visualiza un "ima gen1Click aquí" el cual también es un link a Google.
+En la cuarta y última linea se visualiza tanto una imagen como un "Click aquí" donde ambos por separado son links que llevan a Google.
+
+c)
+En el primer ejemplo se puede ver una lista desordenada que contiene "xxx", "yyy" y "zzz".
+En el segundo ejemplo se puede ver una lista ordenada que contiene "xxx", "yyy" y "zzz".
+En el tercer ejemplo podemos visualizar lo mismo que en el ejemplo dos con la modificación de que son 3 listas ordenadas diferentes a las cuales se les da un value = 1, value =2 y value = 3 respectivamente.
+En el cuarto ejemplo se sigue visualizando lo mismo pero en este caso el código no es una lista ordenada si no que se uso <p> y se escribió como texto lo que se quería mostrar.
+
+d)
+En ambos casos podemos visualizar la misma tabla pero con la diferencia que en la primera tabla se utiliza <th> para hacer el encabezado de la tabla y en el segundo caso se usa un <td> con align y <strong> para replicar el encabezado del <th>.
+
+e)
+En ambos casos se visualiza lo mismo en la web, la diferencia es que en el primer caso el titulo está hecho con <caption> y en el segundo se usó <tr>, <td colspan> y <div align>.
+
+f)
+En este caso en el primer bloque de codigo se usa rowspan="2" y en el segundo bloque se usa colspan ="2" y esto se puede apreciar al visualizar ambas webs y notar la diferencia entre ambas.
+
+g)
+En el segundo bloque se usó cellpadding ="0" y cellspacing ="0" y en el primer bloque no, esto al visualizar las webs se nota que en el primer bloque de código los bordes son mas grandes que en el segundo bloque.
+
+h)
+En el primer caso la clave no se puede visualizar, en el segundo caso la clave sí se puede visualizar y en el tercer caso la clave no se puede visualizar pero se tiene la opción de visualizarla con un botón.
+
+i)
+En el primer caso el botón tiene una imagen y en el segundo es solo un botón.
+
+j)
+En el primer bloque de código se puede elegir entre X o Y pero cuando eliges una no puedes elegir la otra, en el segundo bloque de código si se pueden elegir dos opciones en simultáneo.
+
+k)
+En el primer bloque de código se nos despliegan una opcion de caso 1 y 2 con "mayo" y "junio" y podremos elegir una, en el segundo bloque la lista ya está desplegada y se puede mover con una barra hacia arriba y hacia abajo. 
