@@ -1,3 +1,57 @@
+1) a)
+HTML (Hypertext Markup Language) es un lenguaje de marcado que se usa para crear y estructurar páginas web. La última versión es HTML5, que se publicó en 2014. 
+La primera versión de HTML se lanzó en 1993. HTML 2.0 (1995) Añadió soporte para formularios y scripts.
+HTML 3.2 (1997) Añadió soporte para tablas, frames y hojas de estilo en línea.
+HTML 4.0 y 4.01 (1997) Añadió soporte para hojas de estilo externas, capas y marcos en línea.
+XHTML (2000) Se basó en la sintaxis de XML.
+La versión más reciente de HTML es HTML 5, publicada en 2014. 
+Introdujo nuevas etiquetas semánticas, soporte multimedia, formularios mejorados, API de arrastrar y soltar, almacenamiento local. 
+Se adaptó a las nuevas corrientes en cuanto a navegación se refiere. 
+
+b)
+El W3C recomienda que los agentes de usuario y los autores (y en particular las herramientas de creación) produzcan documentos HTML 4.01 en vez de documentos HTML 4.0. 
+El W3C recomienda que los autores produzcan documentos HTML 4 en vez de documentos HTML 3.2.
+Por razones de compatibilidad con versiones anteriores, el W3C también recomienda que las herramientas que interpreten HTML 4 sigan dando soporte a HTML 3.2 y a HTML 2.0.
+
+c)
+En las especificaciones de HTML, un elemento o atributo se considera desaprobado si no se recomienda su uso, y obsoleto si no se garantiza su soporte. 
+Desaprobado:
+-Se indica en el manual de referencia, claramente marcado como desaprobado.
+-Se recomienda evitar su uso.
+-Se pueden incluir ejemplos de cómo evitar su uso.
+-Se pueden utilizar hojas de estilo en su lugar.
+
+Obsoleto:
+-No se garantiza su soporte por parte de un agente de usuario.
+-Se enumeran por motivos históricos en la sección de cambios del manual de referencia.
+-Una tecnología obsoleta podría eliminarse en el futuro o podría conservarse solo por motivos de compatibilidad.
+
+d)
+DTD (Document Type Definition) es una definición de tipo de documento que define la estructura de un documento XML. 
+En HTML 4.01, hay tres DTDs posibles: Estricto, Transicional y Conjunto de marcos. 
+
+e)
+
+Información sobre un documento más que contenido del propio documento.
+
+En general, la especificación de metadatos implica dos pasos:
+
+1- Declaración de una propiedad y de un valor para esta propiedad. Esto puede hacerse de dos maneras:
+	1- Desde dentro de un documento, por medio del elemento META.
+	2- Desde fuera de un documento, vinculando los metadatos por medio del elemento LINK.
+2- Referencia a un perfil en el que se definen la propiedad y sus valores legales. Para designar un perfil, se usa el atributo profile del elemento HEAD.
+
+
+2 a)
+El primer segmento no muestra nada en la web ya que no está entre ninguna tag, si estuviera entre un <div></div> entonces mostraria en pantalla ese mensaje.
+
+b)
+El segundo segmento está compuesto por la etiqueta <div>, el elemento id y el contenido. En este caso poner id="bloque 1" no es obligatorio ya que no cambiaría lo que se muestra en pantalla.
+
+c)
+En el tercer segmento se puede apreciar la etiqueta <img> con los atributos width, height, y longdesc, los cuales tampoco son olbligatorios ya que solo cambian el tamaño de la imágen.
+
+
 3 a)
 El primer "Click aquí para ir a Google" te abre la pestaña de google reemplazando la de la pagina web, en el segundo "Click aquí para ir a Google" te abre la pestaña de google pero en una nueva pestaña.
 El tercer "Click aquí para ir a Google" no cumple su función ya que solamente abre nuevamente la misma pagina web.
