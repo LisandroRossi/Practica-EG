@@ -1,0 +1,21 @@
+1)
+
+HTML5 tiene varias ventajas, entre ellas, la compatibilidad con dispositivos móviles, la mejora de la experiencia de usuario y el soporte multimedia.
+Soporte multimedia integrado
+Permite añadir audio y vídeo sin necesidad de plugins adicionales.
+Multiplataforma
+Disponible en cualquier dispositivo que tenga un navegador compatible con HTML5.
+Tiempos de carga más rápidos
+HTML5 mejora la experiencia del usuario y los tiempos de carga de páginas. 
+Código más limpio
+El código más limpio de HTML5 facilita la detección de errores y el trabajo de los desarrolladores. 
+Crea sitios interactivos
+Permite crear sitios web y aplicaciones web modernos con videos, audio y gráficos. 
+
+2)
+Los formatos de audio que soporta html 5 son:
+AAC, MP3 y Ogg Vorbis
+
+3)
+Los formatos de video que soporta html 5 son:
+MP4, WebM y Ogg
