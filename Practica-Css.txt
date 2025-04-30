@@ -1,0 +1,53 @@
+Ejercitación 1
+
+1)
+CSS (Cascading Style Sheets o "Hojas de Estilo en Cascada") podría definirse como un tipo de lenguaje que permite definir y crear la presentación visual de un documento ya estructurado y escrito en un lenguaje de marcado como puede ser HTML.
+Es decir, permite generar el diseño visual de páginas web e interfaces de usuario.
+
+2)
+En CSS, las reglas de estilo están compuestas por un selector y una declaración. 
+El selector identifica los elementos HTML a los que se aplicará el estilo, mientras que la declaración define las propiedades y sus valores.
+
+3)
+Interno o incrustado – añade la etiqueta <style> en la sección <head> del documento HTML.
+Externo – enlaza la hoja HTML a un archivo . css separado.
+Inline – aplica reglas CSS a elementos específicos.
+
+4)
+Los tipos de selectores CSS más utilizados incluyen selectores de tipo, clase, ID, y atributo.
+
+Selector de tipo: Selecciona elementos HTML por su etiqueta, como por ejemplo, p { color: blue; } aplicará un color azul a todos los párrafos de la página.
+Selector de clase: Selecciona elementos que tienen una clase específica en su atributo class, como por ejemplo, .box { background-color: yellow; } aplicará un fondo amarillo a todos los elementos con la clase box.  
+Selector de ID: Selecciona un elemento único por su ID, como por ejemplo, #unique { font-weight: bold; } aplicará fuente en negrita solo al elemento con el ID unique. 
+Selector de atributo: Selecciona elementos que tienen un atributo específico, como por ejemplo, a[title] { text-decoration: underline; } aplicará un subrayado a todos los enlaces que tengan el atributo title. 
+
+5)
+En CSS, una pseudo-clase es una palabra clave que se añade a los selectores para especificar un estado o condición especial de un elemento. 
+Se utiliza para aplicar estilos a elementos en función de su estado o interacción del usuario, como el estado de un enlace visitado, el estado al pasar el ratón (hover), o cuando se está presionando un botón (active). 
+
+6)
+En CSS, la herencia es un mecanismo que permite que las propiedades de un elemento padre sean transmitidas a sus hijos.
+Si un elemento no tiene una propiedad definida, puede heredar su valor de su elemento padre. 
+
+7)
+la cascada es el algoritmo que el navegador utiliza para resolver conflictos cuando múltiples reglas CSS se aplican a un elemento HTML. Determina cuál de esas reglas se aplica al elemento y cómo se comporta en caso de que algunas reglas se superpongan. 
+
+Ejercitación 2
+
+El primer bloque tiene un id="normal" hace que la fuente sea arial o helvetica en caso que arial no sea posible, hace que el tamaño de la fuenta sea de 11px y que el color sea negrita.
+El segundo bloque tiene el id="destacado" tiene un border style solid, el color del borde en azul y el tamaño del borde de 2px.
+El tercer bloque tiene el id="distinto" tiene un color del fondo azul claro y un color rojo.
+
+Ejercitación 3 
+
+El primer bloque hace que la etiqueta <p> con la clase "quitar" sea de color rojo.
+El segundo hace que lo que tenga la clase "desarrollo" tenga tamaño de fuente 8px.
+El tercero hace que la clase "importante" tenga tamaño de fuente 20px.
+
+Ejercitación 4 
+
+La diferencia es que en el primer caso la clase "contenido" esta dentro de un <p> y en el segundo dentro de un <body>. Además en el primer caso hay un style="font-weight: normal"
+Esto hace que en el primer caso la letra sea más grande y el espacio entre las palabras también.
+
+Ejercitaci
+
