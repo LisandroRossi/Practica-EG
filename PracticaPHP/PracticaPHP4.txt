@@ -1,0 +1,29 @@
+1)
+Variables: $a: boolean, $b: string, $c: string, $d: integer.
+Operadores: operador unario: ++, operadores binarios: +, operador ternario: ?.
+Funciones: Gettype parámetros: $a, $b, $c, $d. is_int, parámetro: $d. is_string, parámetro: $d. doble, parámetro: $i.
+Estructuras de control: if
+Salida por pantalla: 
+True
+String
+String
+Integer
+1xyzxyz173444
+
+2)
+a)
+Si son equivalentes solo que se maneja de distinta forma el incremento de la variable $i.
+
+b)
+No son equivalentes ya que en el primer caso se suma $i y luego se hace el print $i y en el segundo caso primero se hace el print $i y luego se incrementa$i.
+
+c)
+Ambos son equivalentes solo que en un caso se usa if, elseif y en el otro se usa un case.
+
+3)
+a)
+Este código sirve para generar una tabla de 5 filas y 2 columnas utilizando una estructura de control for.
+
+b)
+El segundo código sirve para generar un formulario en el que el usuario ponga su edad y se haga un print determinando si es mayor o menor de edad.
+
